@@ -1,3 +1,4 @@
-# vite-react
+# react-design-system
 
-vite, react
+react, vite
+design-system
